@@ -1,3 +1,6 @@
+/*
+ * mongoskin -- connect with MongoDB 
+ */
 var http = require('http'),
 	express = require('express'),
 	mongoStore = require('connect-mongodb'),
